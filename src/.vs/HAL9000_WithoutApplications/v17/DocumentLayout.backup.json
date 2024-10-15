@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79A21DCA-19AF-4F8E-9B83-62D7CF504104}|HAL9000\\HAL9000.vcxproj|C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\shared\\kernel\\thread.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79A21DCA-19AF-4F8E-9B83-62D7CF504104}|HAL9000\\HAL9000.vcxproj|solutionrelative:shared\\kernel\\thread.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A21DCA-19AF-4F8E-9B83-62D7CF504104}|HAL9000\\HAL9000.vcxproj|C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\HAL9000\\src\\thread.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79A21DCA-19AF-4F8E-9B83-62D7CF504104}|HAL9000\\HAL9000.vcxproj|solutionrelative:HAL9000\\src\\thread.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A21DCA-19AF-4F8E-9B83-62D7CF504104}|HAL9000\\HAL9000.vcxproj|C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\HAL9000\\src\\cmd_thread_helper.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79A21DCA-19AF-4F8E-9B83-62D7CF504104}|HAL9000\\HAL9000.vcxproj|solutionrelative:HAL9000\\src\\cmd_thread_helper.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A21DCA-19AF-4F8E-9B83-62D7CF504104}|HAL9000\\HAL9000.vcxproj|C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\HAL9000\\headers\\thread_internal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79A21DCA-19AF-4F8E-9B83-62D7CF504104}|HAL9000\\HAL9000.vcxproj|solutionrelative:HAL9000\\headers\\thread_internal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA44C37A-1730-447F-8975-3DF40D559310}|CommonLib\\CommonLib.vcxproj|C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\CommonLib\\src\\lock_common.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA44C37A-1730-447F-8975-3DF40D559310}|CommonLib\\CommonLib.vcxproj|solutionrelative:CommonLib\\src\\lock_common.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA44C37A-1730-447F-8975-3DF40D559310}|CommonLib\\CommonLib.vcxproj|C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\COMMONLIB\\INC\\LOCK_COMMON.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA44C37A-1730-447F-8975-3DF40D559310}|CommonLib\\CommonLib.vcxproj|solutionrelative:COMMONLIB\\INC\\LOCK_COMMON.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A21DCA-19AF-4F8E-9B83-62D7CF504104}|HAL9000\\HAL9000.vcxproj|C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\shared\\kernel\\ex_event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79A21DCA-19AF-4F8E-9B83-62D7CF504104}|HAL9000\\HAL9000.vcxproj|solutionrelative:shared\\kernel\\ex_event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA44C37A-1730-447F-8975-3DF40D559310}|CommonLib\\CommonLib.vcxproj|C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\CommonLib\\src\\cl_string.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA44C37A-1730-447F-8975-3DF40D559310}|CommonLib\\CommonLib.vcxproj|solutionrelative:CommonLib\\src\\cl_string.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA44C37A-1730-447F-8975-3DF40D559310}|CommonLib\\CommonLib.vcxproj|C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\CommonLib\\src\\cl_memory.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA44C37A-1730-447F-8975-3DF40D559310}|CommonLib\\CommonLib.vcxproj|solutionrelative:CommonLib\\src\\cl_memory.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA44C37A-1730-447F-8975-3DF40D559310}|CommonLib\\CommonLib.vcxproj|C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\CommonLib\\src\\cl_heap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA44C37A-1730-447F-8975-3DF40D559310}|CommonLib\\CommonLib.vcxproj|solutionrelative:CommonLib\\src\\cl_heap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA44C37A-1730-447F-8975-3DF40D559310}|CommonLib\\CommonLib.vcxproj|C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\CommonLib\\src\\checkin_queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA44C37A-1730-447F-8975-3DF40D559310}|CommonLib\\CommonLib.vcxproj|solutionrelative:CommonLib\\src\\checkin_queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "thread_internal.h",
+              "DocumentMoniker": "C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\HAL9000\\headers\\thread_internal.h",
+              "RelativeDocumentMoniker": "HAL9000\\headers\\thread_internal.h",
+              "ToolTip": "C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\HAL9000\\headers\\thread_internal.h",
+              "RelativeToolTip": "HAL9000\\headers\\thread_internal.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-13T17:56:41.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "thread.h",
+              "DocumentMoniker": "C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\shared\\kernel\\thread.h",
+              "RelativeDocumentMoniker": "shared\\kernel\\thread.h",
+              "ToolTip": "C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\shared\\kernel\\thread.h",
+              "RelativeToolTip": "shared\\kernel\\thread.h",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAH4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-13T17:53:35.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cmd_thread_helper.c",
+              "DocumentMoniker": "C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\HAL9000\\src\\cmd_thread_helper.c",
+              "RelativeDocumentMoniker": "HAL9000\\src\\cmd_thread_helper.c",
+              "ToolTip": "C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\HAL9000\\src\\cmd_thread_helper.c",
+              "RelativeToolTip": "HAL9000\\src\\cmd_thread_helper.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-08T10:50:27.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "thread.c",
+              "DocumentMoniker": "C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\HAL9000\\src\\thread.c",
+              "RelativeDocumentMoniker": "HAL9000\\src\\thread.c",
+              "ToolTip": "C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\HAL9000\\src\\thread.c",
+              "RelativeToolTip": "HAL9000\\src\\thread.c",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAnwCwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-08T09:40:39.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lock_common.c",
+              "DocumentMoniker": "C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\CommonLib\\src\\lock_common.c",
+              "RelativeDocumentMoniker": "CommonLib\\src\\lock_common.c",
+              "ToolTip": "C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\CommonLib\\src\\lock_common.c",
+              "RelativeToolTip": "CommonLib\\src\\lock_common.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-07T13:57:35.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ex_event.h",
+              "DocumentMoniker": "C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\shared\\kernel\\ex_event.h",
+              "RelativeDocumentMoniker": "shared\\kernel\\ex_event.h",
+              "ToolTip": "C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\shared\\kernel\\ex_event.h",
+              "RelativeToolTip": "shared\\kernel\\ex_event.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-07T13:54:19.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lock_common.h",
+              "DocumentMoniker": "C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\CommonLib\\inc\\lock_common.h",
+              "RelativeDocumentMoniker": "CommonLib\\inc\\lock_common.h",
+              "ToolTip": "C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\CommonLib\\inc\\lock_common.h",
+              "RelativeToolTip": "CommonLib\\inc\\lock_common.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-07T13:50:37.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "cl_string.c",
+              "DocumentMoniker": "C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\CommonLib\\src\\cl_string.c",
+              "RelativeDocumentMoniker": "CommonLib\\src\\cl_string.c",
+              "ToolTip": "C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\CommonLib\\src\\cl_string.c",
+              "RelativeToolTip": "CommonLib\\src\\cl_string.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-07T13:34:23.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "cl_memory.c",
+              "DocumentMoniker": "C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\CommonLib\\src\\cl_memory.c",
+              "RelativeDocumentMoniker": "CommonLib\\src\\cl_memory.c",
+              "ToolTip": "C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\CommonLib\\src\\cl_memory.c",
+              "RelativeToolTip": "CommonLib\\src\\cl_memory.c",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-07T13:34:10.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "cl_heap.c",
+              "DocumentMoniker": "C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\CommonLib\\src\\cl_heap.c",
+              "RelativeDocumentMoniker": "CommonLib\\src\\cl_heap.c",
+              "ToolTip": "C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\CommonLib\\src\\cl_heap.c",
+              "RelativeToolTip": "CommonLib\\src\\cl_heap.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-07T13:34:08.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "checkin_queue.c",
+              "DocumentMoniker": "C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\CommonLib\\src\\checkin_queue.c",
+              "RelativeDocumentMoniker": "CommonLib\\src\\checkin_queue.c",
+              "ToolTip": "C:\\Users\\bevdb\\Downloads\\HAL9000folder-20241001\\HAL9000\\src\\CommonLib\\src\\checkin_queue.c",
+              "RelativeToolTip": "CommonLib\\src\\checkin_queue.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAGsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-07T13:33:47.483Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
